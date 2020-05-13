@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiNote</string>
+    <string name="file_name">NotesData.json</string>
+    <string name="no_file">NotesData File not found</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saved">Note Saved!</string>
+    <string name="coypright"> "\u00a9 2019, Deepak Yadav" </string>s
+    <string name="version">1.0</string>
+</resources>
